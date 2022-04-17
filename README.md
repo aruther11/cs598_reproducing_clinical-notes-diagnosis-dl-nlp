@@ -1,1 +1,1 @@
-# cs598_reproducing_clinical-notes-diagnosis-dl-nlp
+# cs598_reproducing_clinical_notes_diagnosis_dl_nlp
