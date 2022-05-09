@@ -32,7 +32,7 @@ gensim
 pickle
 pandas
 
-Unable to generate depend
+Unable to generate dependecy yaml through normal python code due to databricks limitations
 
 --Data download instruction
 
