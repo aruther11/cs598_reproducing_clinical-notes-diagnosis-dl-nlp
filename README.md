@@ -17,8 +17,16 @@ https://github.com/lsy3/clinical-notes-diagnosis-dl-nlp
 
 --Dependencies
 
-Databricks Runtime 10.2
+10.2 ML (includes Apache Spark 3.2.0, GPU, Scala 2.12)
+NC6s_v3 - Cluster (DBU / hour: 15 - 45) 
 
+pyspark
+sklearn
+nltk
+teraflow
+gensim
+pickle
+pandas
 
 --Data download instruction
 
