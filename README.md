@@ -17,8 +17,12 @@ https://github.com/lsy3/clinical-notes-diagnosis-dl-nlp
 
 --Dependencies
 
+Databricks
+https://azure.microsoft.com/en-us/free/databricks/search/?&ef_id=Cj0KCQjw1N2TBhCOARIsAGVHQc66dFXl7zdfxdvbEHyBuTTXHQKN_q-ythQEGX18bxiu7VIiqMmpGfQaAhF1EALw_wcB:G:s&OCID=AID2200277_SEM_Cj0KCQjw1N2TBhCOARIsAGVHQc66dFXl7zdfxdvbEHyBuTTXHQKN_q-ythQEGX18bxiu7VIiqMmpGfQaAhF1EALw_wcB:G:s
 10.2 ML (includes Apache Spark 3.2.0, GPU, Scala 2.12)
 NC6s_v3 - Cluster (DBU / hour: 15 - 45) 
+
+Packages Used within Databricks:
 
 pyspark
 sklearn
@@ -27,6 +31,8 @@ teraflow
 gensim
 pickle
 pandas
+
+Unable to generate depend
 
 --Data download instruction
 
