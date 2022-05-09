@@ -43,12 +43,17 @@ https://physionet.org/content/mimiciii/1.4/
 --Preprocessing code:
 
 preprocessing.ipynb
+
 feature_extraction_nonseq.ipynb
+
 feature_extraction_seq.ipynb
+
 word2vec-generator.ipynb
 
 --Training code + command (if applicable)
+
 wordseq_train.ipynb
+
 ml_baseline.ipynb
 
 --Results
